@@ -268,7 +268,8 @@ section{
         right: 0;
     }
     header{
-        background: #22211f;
+        backdrop-filter: blur(5px);
+        background-color: rgba(148, 148, 148, 0.3);
         padding: 10px 4%;
     }
     .logo{
